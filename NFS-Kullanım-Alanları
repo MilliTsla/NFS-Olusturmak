@@ -1,0 +1,8 @@
+NFS Yazılım Geliştiren Şirketlerce Ortak Repo Kaynağı Olarak Kullanılabilir.
+Mesela Bir Şirket Kurdunuz Ve Yazılımcıların Ortak ve Private Çalışabileceği Bir Platform Bulmanız
+Gerekiyor. Yeni Bir Şirketsiniz Ve Kasadan Para Çıkışını Olabildiğince Aza İndirmek İstiyorsunuz.
+İşte Burada Orta Hızda Bir İnternet, Raspberry Pi 3 ve 1TB Hdd İle Sorununuzu Çözebilirsiniz.
+Kısaca İşinizi Toplamda 250-350TL Harcayarak Halledebilirsiniz. Tek Yapmanız Gereken Rasppery
+Pi3 İçine Herhangi Bir Linux Dağıtımı( Hız için tercihen Arch Konsol) Kurup Sunucuya İstemcileri
+Tanıtmak.
+Ya da 
